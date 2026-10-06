@@ -1,0 +1,1 @@
+file:///workspace/strike-vector-pages/index.js
