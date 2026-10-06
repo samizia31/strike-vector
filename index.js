@@ -1,1 +1,6 @@
-var code="";["index.js.p0","index.js.p1","index.js.p2","index.js.p3"].forEach(function(p){var xhr=new XMLHttpRequest();xhr.open("GET",p,false);xhr.send(null);if(xhr.status!==200&&xhr.status!==0){throw new Error("failed to load "+p+": "+xhr.status)}code+=xhr.responseText;});(0,eval)(code);
+/* Strike Vector — index.js not fully published via MCP.
+ * Upload the real Godot index.js (279815 bytes) from the web build via GitHub
+ * "Add file → Upload files" together with index.wasm and index.pck.
+ */
+document.getElementById("status")?.style && (document.getElementById("status").style.visibility = "visible");
+alert("Strike Vector: engine JS / wasm / pck not on the repo yet. Upload the web build files to main (see README).");
