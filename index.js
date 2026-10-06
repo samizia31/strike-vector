@@ -1,1 +1,1 @@
-file:///workspace/strike-vector-pages/index.js
+var code="";["index.js.p0","index.js.p1","index.js.p2","index.js.p3"].forEach(function(p){var xhr=new XMLHttpRequest();xhr.open("GET",p,false);xhr.send(null);if(xhr.status!==200&&xhr.status!==0){throw new Error("failed to load "+p+": "+xhr.status)}code+=xhr.responseText;});(0,eval)(code);
