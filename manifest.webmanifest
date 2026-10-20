@@ -1,6 +1,6 @@
 {
- "name": "Strike Vector",
- "short_name": "StrikeVector",
+ "name": "GUNVECTOR",
+ "short_name": "GUNVECTOR",
  "start_url": "./index.html",
  "scope": "./",
  "display": "fullscreen",
