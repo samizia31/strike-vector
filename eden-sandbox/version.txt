@@ -1,1 +1,1 @@
-eden-sandbox 23134e8 2026-10-27 22:13 CET
+eden-sandbox bad3f07 2026-10-27 23:09 CET (sandbox/trees: 7 tree styles)
