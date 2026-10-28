@@ -1,1 +1,1 @@
-eden-sandbox e0e5fff 2026-10-28 03:47 CET (sandbox/web: palm v8 default + 7 tree styles)
+eden-sandbox d49958f 2026-10-28 09:09 CET (sandbox/web: trees pass 3 full 9-tone ramp shading, tshade=ramp default)
