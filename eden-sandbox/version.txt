@@ -1,1 +1,1 @@
-eden-sandbox 9789ea8 2026-10-28 09:38 CET (sandbox/web: trees pass 3 + lamp fix: point lights shift the ramp like the palm)
+eden-sandbox bf6b6cf 2026-10-28 10:10 CET (sandbox/web: pass-3 ramp colouring for palm v8 and the old tree)
