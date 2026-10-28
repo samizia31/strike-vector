@@ -1,1 +1,1 @@
-eden-sandbox-pipeline 6aa0063 2026-10-28 14:56 CET (pipeline/grid-v2: arbres régénérés signalés, étiquettes de version, bandeau)
+eden-sandbox-pipeline 74d9ced 2026-10-28 15:17 CET (t45 UI compacte iPhone)
