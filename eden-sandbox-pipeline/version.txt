@@ -1,1 +1,0 @@
-eden-sandbox-pipeline b4bead2 2026-10-28 12:30 CET (pipeline/grid-v2: page Pipeline IA → algorithmes → lumière, 9 étapes, 16 arbres)
