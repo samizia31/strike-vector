@@ -1,1 +1,1 @@
-eden-sandbox d49958f 2026-10-28 09:09 CET (sandbox/web: trees pass 3 full 9-tone ramp shading, tshade=ramp default)
+eden-sandbox 9789ea8 2026-10-28 09:38 CET (sandbox/web: trees pass 3 + lamp fix: point lights shift the ramp like the palm)
