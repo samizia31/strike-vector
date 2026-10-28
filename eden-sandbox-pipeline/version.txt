@@ -1,1 +1,1 @@
-eden-sandbox-pipeline 2bc0a1c 2026-10-28 13:51 CET (pipeline/grid-v2: 11 étapes, + régénéré à l'échelle, + dézoom 6 méthodes)
+eden-sandbox-pipeline 6aa0063 2026-10-28 14:56 CET (pipeline/grid-v2: arbres régénérés signalés, étiquettes de version, bandeau)
