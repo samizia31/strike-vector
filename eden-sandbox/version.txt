@@ -1,1 +1,1 @@
-eden-sandbox bf6b6cf 2026-10-28 10:10 CET (sandbox/web: pass-3 ramp colouring for palm v8 and the old tree)
+eden-sandbox b4b6113 2026-10-28 11:08 CET (sandbox/web: 16-tree collection under the engine light, tree selector, collection row view)
